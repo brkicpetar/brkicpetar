@@ -5,4 +5,4 @@
 - 📔 Learning JavaScript
 - 🏫 Currently student in Ninth Grammmar School "Mihailo Petrović Alas"   
 - 🏠 Based in Belgrade, Serbia
-- 📫 Don't hesitate to reach me on the following email: brkicpetar@yahoo.com
+- 📫 Don't hesitate to reach me on the following email: brkicpetar@pm.me
