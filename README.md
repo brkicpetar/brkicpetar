@@ -6,3 +6,4 @@
 - 🏫 Currently student in Ninth Grammar School "Mihailo Petrović Alas"   
 - 🏠 Based in Belgrade, Serbia
 - 📫 Don't hesitate to contact me on the following email: brkicpetar@pm.me
+- ☕ You can buy me a coffee [here](https://www.buymeacoffee.com/brkicpetar).
