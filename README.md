@@ -9,7 +9,7 @@
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=5F7FFF&center=true&vCenter=true&width=1080&lines=My+name+is+Petar!;I'm+a+C%23+Software+Developer!;Currently+learning+JavaScript;Don't+hesitate+to+contact+me!" alt="Typing SVG" /></a>
 
 - 👀 I’m interested in software engineering and cyber security.
-- 🏫 Currently student in Ninth Grammar School "Mihailo Petrović Alas"   
+- 🏫 Currently studying Software Engineering at University of Belgrade, Faculty of Organizational Sciences   
 - 🏠 Based in Belgrade, Serbia  
 
 
